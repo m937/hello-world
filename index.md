@@ -1,4 +1,4 @@
-Hello world.
+Hello to my website
 Exercise.
 1. Edit the file index.md by adding a new paragraph.
 2. Add the index.md to the next version.
@@ -12,3 +12,4 @@ Exercise.
 10. Edit index.md using GitHub online interface.
 11. Pull the latest version from GitHub to your local machine.
 12. Pull...
+13. gh-pages website
