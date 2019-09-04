@@ -11,3 +11,4 @@ Exercise.
 9. Push that you have the new version in GitHub.
 10. Edit index.md using GitHub online interface.
 11. Pull the latest version from GitHub to your local machine.
+12. Pull...
